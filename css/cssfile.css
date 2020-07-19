@@ -1,0 +1,27 @@
+body{
+    font-family: "Montserrat";
+    background-color: #000000;
+}
+.colored-section{
+    background-color: #000000;
+    color: whitesmoke;
+}
+.nav-item{
+    padding: 0 28px ;
+}
+.link{
+    color: yellow;
+}
+#row1{
+    margin-top: 8rem; 
+}
+.img{
+    height:360px;
+    width:450px;
+}
+.text{
+    margin-bottom: 5rem;
+}
+
+
+

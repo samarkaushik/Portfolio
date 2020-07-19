@@ -1,0 +1,26 @@
+body{
+    font-family: "Montserrat";
+    background-color: #000000;
+}
+#title .container-fluid{
+    padding: 2% 15% 7%;
+    text-align: left;
+}
+.colored-section{
+    background-color: #000000;
+    color: whitesmoke;
+}
+.nav-item{
+    padding: 0 28px ;
+}
+.link{
+    color: yellow;
+}
+.text{
+    margin-left: 2rem;
+}
+.img{
+    width: 480px;
+    height:370px;
+    padding-left: 2rem;
+}

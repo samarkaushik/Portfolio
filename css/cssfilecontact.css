@@ -1,0 +1,38 @@
+body{
+    font-family: "Montserrat";
+    background-color: #000000;
+}
+#title .container-fluid{
+    padding: 2% 15% 7%;
+    text-align: left;
+}
+.colored-section{
+    background-color: #000000;
+    color: whitesmoke;
+}
+.nav-item{
+    padding: 0 28px ;
+}
+.link{
+    color: yellow;
+}
+.text{
+    margin-left: 2rem;
+}
+.icon{
+    color:rgb(179, 169, 169);
+    padding-top: 9rem;
+    padding-left: 5rem;
+}
+.icon:hover{
+    color: #ffffff;
+}
+.box{
+    background-color: rgb(179, 169, 169);
+}
+.box:hover{
+    background-color: white;
+}
+.social-icon{
+    margin: 20px 10px;
+}

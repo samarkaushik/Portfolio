@@ -1,0 +1,31 @@
+body{
+    font-family: "Montserrat";
+    background-color: #000000;
+}
+#title .container-fluid{
+    padding: 2% 15% 7%;
+    text-align: left;
+}
+.h1{
+    font-family: "ubuntu";
+    font-size: 900;
+}
+.colored-section{
+    background-color: #000000;
+    color: whitesmoke;
+}
+.nav-item{
+    padding: 0 28px ;
+}
+.link{
+    color: yellow;
+}
+.text{
+    margin-left: 4rem;
+    padding-top: 4rem;
+}
+.img{
+    width: 400px;
+    height:300px;
+    padding-left: 6rem;
+}
